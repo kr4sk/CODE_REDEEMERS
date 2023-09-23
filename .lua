@@ -1,4 +1,4 @@
-return ALL_CODES = {
+ALL_CODES = {
     "CREWRANKING",
     "sundays",
     "BIGUPD",
